@@ -1,5 +1,10 @@
 # docker-laravel
 
+## 環境
+php: 7.3 <br>
+web server: nginx-alpine<br>
+MySQL: 8.0
+ 
 ## 環境構築
 1. git clone 
 1. docker-compose.yml配下にてdocker-compose up -d --build
